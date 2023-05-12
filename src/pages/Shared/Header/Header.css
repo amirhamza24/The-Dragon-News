@@ -1,0 +1,14 @@
+.date {
+    font-weight: 500;
+    color: #5e5d5d;
+}
+
+.marque {
+    background: #EBEDF0;
+    padding: 9px;
+    border-radius: 5px;
+}
+
+.weight {
+    font-weight: 500;
+}

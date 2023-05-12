@@ -1,0 +1,25 @@
+.bg {
+    background: url('../../../assets/bg.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 420px;
+    position: relative;
+}
+
+.bg-absolute {
+    position: absolute;
+    margin: 15px 0
+}
+
+.bg-title h3 {
+    margin: 10px 0;
+}
+
+.bg-title p {
+    margin: 20px 0;
+}
+
+.bg-title Button {
+    margin-top: 20px;
+}
